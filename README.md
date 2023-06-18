@@ -1,5 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: marsic3](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milos-arsic-292b49142/)](https://www.linkedin.com/in/milos-arsic-292b49142/)
+[![Linkedin: marsic3](https://img.shields.io/badge/-marsic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milos-arsic-292b49142/)](https://www.linkedin.com/in/milos-arsic-292b49142/)
 
 ### 📫 Like to meet me?
 
