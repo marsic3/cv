@@ -19,8 +19,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 >
 > 🏆 96 Contributions in the Year 2023
 >
-> 🚫 Not Opted to Hire
->
 > 📜 21 Public Repositories
 >
 > 🔑 23 Private Repositories
